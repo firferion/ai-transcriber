@@ -1,0 +1,16 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.syso
+
+# Large archives and temp files
+*.zip
+gcc_temp/
+
+# Embedded binaries folder (contains large models and ffmpeg)
+bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
